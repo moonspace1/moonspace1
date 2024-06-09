@@ -1,5 +1,5 @@
 <h1 align="center">Hi i'm Moon.</h1>
-<h3 align="center">I'm not really doing much rn other than developing stuff for konata.dev's wade dev divison.</h3>
+<h3 align="center">I'm not really doing much rn other than developing stuff for konata.club's wade dev divison.</h3>
 
 - I’m currently working on: [konataClient](https://github.com/konata-dev/konataClient)
 
