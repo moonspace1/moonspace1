@@ -1,2 +1,5 @@
 <h1 align="center">Moon</h1>
-<h3 align="center">ooga booga unga bunga</h3>
+<p align="center">
+  <img src="./assets/touhoucast.gif"/>
+</p>
+<h3 align="center">thank god for private repos</h3>
